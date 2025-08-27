@@ -26,8 +26,6 @@ Meu projeto favorito é o [Projeto---Triagem-Clinica](https://github.com/Belizar
 
 ---
 
-> "Olá! Meu nome é João Victor Belizario dos Santos, e estou em constante evolução na área de tecnologia. Acredito que transformar ideias em soluções é o verdadeiro poder da programação, e estou determinado a crescer e contribuir cada vez mais para o mundo da tecnologia."
-
 <!--
 **BelizarioJv/BelizarioJv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
