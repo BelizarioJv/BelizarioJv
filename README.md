@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Olá! Eu sou João Victor Belizario dos Santos
 
 Sou apaixonado por tecnologia e estou dando meus primeiros passos profissionais como estagiário de TI. Atualmente, curso Desenvolvimento de Sistemas, onde aprofundo meu conhecimento em lógica de programação, linguagens como **JavaScript**, **Python** e **C**, além de banco de dados e soluções que transformam ideias em projetos reais.
