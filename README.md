@@ -22,8 +22,14 @@ Sou apaixonado por tecnologia e estou dando meus primeiros passos profissionais 
 
 ## 🌟 Projeto Destaque
 
-Meu projeto favorito é o [Projeto---Triagem-Clinica](https://github.com/BelizarioJv/Projeto---Triagem-Clinica), desenvolvido com Python, onde pude aplicar na prática meus conhecimentos em programação para criar uma solução funcional voltada para a área da saúde. O objetivo é facilitar o processo de triagem clínica, tornando-o mais ágil e organizado.
-Atualmente, estou trabalhando na implementação de uma interface gráfica intuitiva e na integração com um banco de dados, o que permitirá armazenar e gerenciar informações dos pacientes de forma eficiente
+Meu projeto favorito é o [Projeto---Triagem-Clinica](https://github.com/BelizarioJv/Projeto---Triagem-Clinica), desenvolvido com Python, onde pude aplicar na prática meus conhecimentos em programação para criar uma solução funcional voltada para a área da saúde. O objetivo principal é otimizar o processo de triagem clínica, tornando-o mais ágil, organizado e acessível.
+🛠️Proximas versões:
+- Uma interface gráfica intuitiva para facilitar o uso por profissionais da saúde.
+- Integração com um banco de dados para armazenar e gerenciar informações dos pacientes de forma segura e eficiente.
+- Refatoração do código para aplicar os princípios da Programação Orientada a Objetos (POO), tornando o projeto mais modular e escalável.
+- Uso de APIs externas para enriquecer funcionalidades e melhorar a experiência do usuário.
+🚀 Este projeto representa meu compromisso com a criação de soluções práticas e inteligentes, além de ser uma excelente oportunidade de aprendizado contínuo em desenvolvimento de software.
+
 
 ## 📫 Contato
 
