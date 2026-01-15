@@ -13,7 +13,6 @@ Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu
 
 ## 🚀 Sobre mim
 
-- 🧑‍💻 Estagiário em Implementaçao de Software
 - 📚 Estudante de Desenvolvimento de Sistemas
 - 💡 Entusiasta de lógica, programação e inovação
 - 🌱 Sempre aprendendo novas tecnologias e buscando evoluir
