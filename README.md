@@ -1,7 +1,15 @@
 
 # 👋 Olá! Eu sou João Victor Belizario dos Santos
 
-Sou apaixonado por tecnologia e estou dando meus primeiros passos profissionais como estagiário de Implementaçao de Software na Teknisa . Atualmente, curso Desenvolvimento de Sistemas, onde aprofundo meu conhecimento em lógica de programação e linguagens como **JavaScript**, **PHP** e **SQL**, além de banco de dados e soluções que transformam ideias em projetos reais.
+Tenho me dedicado à construção de uma base sólida em desenvolvimento de software, com foco em sistemas ERP e aplicações web. Ao longo da minha formação, venho me aprofundando em lógica de programação, linguagens como C e JavaScript, e ferramentas modernas como SQL e Git.
+
+Estou explorando práticas como CI/CD, testes automatizados, modelagem de dados e consumo de APIs REST, além de estar buscando conhecer frameworks como React, Angular e Vue.js.
+
+Acredito no poder da tecnologia para transformar negócios e estou em busca de uma oportunidade de estágio onde possa aplicar meus conhecimentos, aprender com profissionais da área e contribuir com projetos inovadores.
+Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu crescimento e o de quem está ao meu redor.
+
+🔗 Linkedin:https://www.linkedin.com/in/joaobelizariodev/
+📧 E-mail: joaovictor.fera@hotmail.com
 
 ## 🚀 Sobre mim
 
