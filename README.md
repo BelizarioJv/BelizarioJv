@@ -8,7 +8,7 @@ Estou explorando práticas como CI/CD, testes automatizados, modelagem de dados 
 Acredito no poder da tecnologia para transformar negócios e estou em busca de uma oportunidade de estágio onde possa aplicar meus conhecimentos, aprender com profissionais da área e contribuir com projetos inovadores.
 Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu crescimento e o de quem está ao meu redor.
 
-🔗 Linkedin:https://www.linkedin.com/in/joaobelizariodev/
+🔗 Linkedin: https://www.linkedin.com/in/jo%C3%A3obelizariodev/
 📧 E-mail: joaovictor.fera@hotmail.com
 
 ## 🚀 Sobre mim
