@@ -3,7 +3,7 @@
 
 Tenho me dedicado à construção de uma base sólida em desenvolvimento de software, com foco em sistemas ERP e aplicações web. Ao longo da minha formação, venho me aprofundando em lógica de programação, linguagens como C e JavaScript, e ferramentas modernas como SQL e Git.
 
-Estou explorando práticas como CI/CD, testes automatizados, modelagem de dados e consumo de APIs REST, além de estar buscando conhecer frameworks como React, Angular e Vue.js.
+Estou explorando práticas como CI/CD, testes automatizados, modelagem de dados e consumo de APIs REST, além de estar buscando conhecer bibliotecas como React e frameworks como Next.js.
 
 Acredito no poder da tecnologia para transformar negócios e estou em busca de uma oportunidade de estágio onde possa aplicar meus conhecimentos, aprender com profissionais da área e contribuir com projetos inovadores.
 Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu crescimento e o de quem está ao meu redor.
@@ -32,15 +32,17 @@ Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu
 
 ## 🌟 Projeto Destaque
 
-Meu projeto favorito é o [[Projeto-LaDog](https://github.com/BelizarioJv/Projeto-LaDog)]), Durante meu curso de desenvolvimento, a primeira disciplina abordou empreendedorismo, com foco em como desenvolvedores podem atuar de forma autônoma. Inspirado por esse conteúdo, criei o conceito de um petshop fictício e desenvolvi um plano de negócio completo, incluindo uma análise SWOT (forças, fraquezas, oportunidades e ameaças), que foi destaque na avaliação da disciplina.
-Decidi transformar essa ideia em um projeto pessoal, integrando o aprendizado técnico ao desenvolvimento da empresa fictícia. Como primeiro passo, criei uma landing page para o petshop, e estou evoluindo o projeto para um site completo no estilo e-commerce, utilizando:
-- JavaScript para interatividade
-- PHP para lógica de servidor
-- React para componentes dinâmicos
-- Tailwind CSS para estilização moderna e responsiva
+Meu projeto favorito é o [[Projeto-Proz]((https://github.com/BelizarioJv/BelizarioJv-Projeto-Full-Stack-WebSiteProz)) Durante minhas férias, aproveitei o tempo livre para aplicar os conhecimentos adquiridos ao longo dos semestres e em cursos extracurriculares. O resultado foi o desenvolvimento de um site da Proz, onde trabalhei com diversas tecnologias e conceitos:
+- HTML semântico para uma estrutura organizada e acessível
+- CSS com responsividade para garantir boa experiência em diferentes dispositivos
+- Página de login e cadastro de usuários
+- Implementação de um CRUD básico utilizando PHP
+- Modulação em JavaScript para melhor organização do código
+- Integração com Google Gemini
+- Banco de dados MySQL para persistência das informações
+Esse projeto foi uma oportunidade de consolidar meus estudos e explorar na prática como diferentes ferramentas e linguagens se conectam para criar uma aplicação funcional e escalável.
+
 Este projeto tem sido uma excelente oportunidade para aplicar os conhecimentos adquiridos e aprofundar minha experiência prática como desenvolvedor full stack, unindo visão empreendedora e habilidades técnicas em uma solução realista e escalável.
-
-
 
 ## 📫 Contato
 - Email : Joaovictor.fera@hotmail.com
