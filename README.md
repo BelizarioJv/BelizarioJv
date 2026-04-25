@@ -31,19 +31,29 @@ Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌟 Projeto Destaque
+🌟 Projeto Destaque
 
-Meu projeto favorito é o [[Projeto-Proz]((https://github.com/BelizarioJv/BelizarioJv-Projeto-Full-Stack-WebSiteProz)) Durante minhas férias, aproveitei o tempo livre para aplicar os conhecimentos adquiridos ao longo dos semestres e em cursos extracurriculares. O resultado foi o desenvolvimento de um site da Proz, onde trabalhei com diversas tecnologias e conceitos:
-- HTML semântico para uma estrutura organizada e acessível
-- CSS com responsividade para garantir boa experiência em diferentes dispositivos
-- Página de login e cadastro de usuários
-- Implementação de um CRUD básico utilizando PHP
-- Modulação em JavaScript para melhor organização do código
-- Integração com Google Gemini
-- Banco de dados MySQL para persistência das informações
-Esse projeto foi uma oportunidade de consolidar meus estudos e explorar na prática como diferentes ferramentas e linguagens se conectam para criar uma aplicação funcional e escalável.
+Meu projeto favorito é o Travel 
+Durante meu processo de aprendizado em desenvolvimento web, desenvolvi uma aplicação completa focada em planejamento de viagens, com uma experiência moderna e interativa.
 
-Este projeto tem sido uma excelente oportunidade para aplicar os conhecimentos adquiridos e aprofundar minha experiência prática como desenvolvedor full stack, unindo visão empreendedora e habilidades técnicas em uma solução realista e escalável.
+O projeto permite que o usuário escolha um destino, selecione um intervalo de datas e visualize informações relevantes como previsão do tempo para todo o período da viagem, tudo isso com uma interface intuitiva e responsiva.
+
+🚀 Principais funcionalidades
+🔍 Busca inteligente de destinos (autocomplete) com consumo de API de geolocalização
+📅 Seleção de intervalo de datas com calendário interativo
+🌦️ Integração com API de clima para exibir previsão durante a viagem
+👥 Adição de convidados para planejamento colaborativo
+🎨 Interface moderna utilizando React e TailwindCSS
+⚡ Gerenciamento de estado e lógica organizada com boas práticas de componentização
+🧠 Tecnologias utilizadas
+React
+TypeScript
+TailwindCSS
+Consumo de APIs (Geocoding + Weather)
+
+Este projeto representa um avanço importante na minha jornada como desenvolvedor, pois une consumo de APIs, manipulação de dados, organização de código e experiência do usuário em uma aplicação realista.
+
+Além disso, foi fundamental para desenvolver minha capacidade de estruturar projetos de forma escalável e pensar não apenas na implementação, mas também na experiência final do usuário.
 
 ## 📫 Contato
 - Email : Joaovictor.fera@hotmail.com
