@@ -33,7 +33,7 @@ Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu
 
 🌟 Projeto Destaque
 
-Meu projeto favorito é o Travel 
+Meu projeto favorito é o [Travel ](https://github.com/BelizarioJv/Travel)
 Durante meu processo de aprendizado em desenvolvimento web, desenvolvi uma aplicação completa focada em planejamento de viagens, com uma experiência moderna e interativa.
 
 O projeto permite que o usuário escolha um destino, selecione um intervalo de datas e visualize informações relevantes como previsão do tempo para todo o período da viagem, tudo isso com uma interface intuitiva e responsiva.
