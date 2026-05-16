@@ -1,9 +1,9 @@
 
 # 👋 Olá! Eu sou João Victor Belizario dos Santos
 
-Tenho me dedicado à construção de uma base sólida em desenvolvimento de software, com foco em sistemas ERP e aplicações web. Ao longo da minha formação, venho me aprofundando em lógica de programação, linguagens como C e JavaScript, e ferramentas modernas como SQL e Git.
+Sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior, com o objetivo de aplicar meus conhecimentos em projetos reais, evoluir profissionalmente e contribuir para soluções inovadoras.
 
-Estou explorando práticas como CI/CD, testes automatizados, modelagem de dados e consumo de APIs REST, além de estar buscando conhecer bibliotecas como React e frameworks como Next.js.
+Atualmente estou explorando práticas como CI/CD, testes automatizados, modelagem de dados e consumo de APIs REST. Além disso, estou estudando conteinerização com Docker e integração de testes utilizando GitHub Actions.
 
 Acredito no poder da tecnologia para transformar negócios e estou em busca de uma oportunidade de estágio onde possa aplicar meus conhecimentos, aprender com profissionais da área e contribuir com projetos inovadores.
 Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu crescimento e o de quem está ao meu redor.
