@@ -35,7 +35,7 @@ Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu
 
 🌟 Projeto Destaque
 
-Meu projeto favorito é o [Senzalas Bar ](https://github.com/BelizarioJv/Projeto-Senzalas-Bar)), um sistema completo de gestão para  o bar da minha familia que estou desenvolvendo para resolver problemas reais de controle de estoque, compras, vendas e administração do negócio.
+Meu projeto favorito é o [Senzalas Bar ](https://github.com/BelizarioJv/Projeto-Senzalas-Bar), um sistema completo de gestão para  o bar da minha familia que estou desenvolvendo para resolver problemas reais de controle de estoque, compras, vendas e administração do negócio.
 
 O projeto surgiu da necessidade de criar uma solução prática para gerenciar produtos, fornecedores, movimentações de estoque e vendas de forma organizada, oferecendo uma visão clara da operação do estabelecimento através de dashboards e relatórios.
 
