@@ -3,7 +3,7 @@
 
 Sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior, com o objetivo de aplicar meus conhecimentos em projetos reais, evoluir profissionalmente e contribuir para soluções inovadoras.
 
-Atualmente estou explorando práticas como CI/CD, testes automatizados, modelagem de dados e consumo de APIs REST. Além disso, estou estudando conteinerização com Docker e integração de testes utilizando GitHub Actions.
+Atualmente estou explorando práticas como CI/CD, testes automatizados , além disso, estou estudando Docker e realizando um curso na AWS Treina Brasil para aprofundar meu entendimento sobre computação em nuvem e os diversos serviços oferecidos pela AWS, enquanto integro testes automatizados utilizando GitHub Actions.
 
 Acredito no poder da tecnologia para transformar negócios e estou em busca de uma oportunidade de estágio onde possa aplicar meus conhecimentos, aprender com profissionais da área e contribuir com projetos inovadores.
 Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu crescimento e o de quem está ao meu redor.
