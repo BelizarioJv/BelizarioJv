@@ -28,37 +28,52 @@ Sempre aberto a novos desafios, aprendizados e experiências que impulsionem meu
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![API](https://img.shields.io/badge/API-00BFFF?style=for-the-badge&logo=api&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 🌟 Projeto Destaque
 
-Meu projeto favorito é o [Travel ](https://github.com/BelizarioJv/Travel)
-Durante meu processo de aprendizado em desenvolvimento web, desenvolvi uma aplicação completa focada em planejamento de viagens, com uma experiência moderna e interativa.
+Meu projeto favorito é o [Senzalas Bar ]((https://github.com/BelizarioJv/Projeto-Senzalas-Bar)), um sistema completo de gestão para  o bar da minha familia que estou desenvolvendo para resolver problemas reais de controle de estoque, compras, vendas e administração do negócio.
 
-O projeto permite que o usuário escolha um destino, selecione um intervalo de datas e visualize informações relevantes como previsão do tempo para todo o período da viagem, tudo isso com uma interface intuitiva e responsiva.
+O projeto surgiu da necessidade de criar uma solução prática para gerenciar produtos, fornecedores, movimentações de estoque e vendas de forma organizada, oferecendo uma visão clara da operação do estabelecimento através de dashboards e relatórios.
 
 🚀 Principais funcionalidades
-🔍 Busca inteligente de destinos (autocomplete) com consumo de API de geolocalização
-📅 Seleção de intervalo de datas com calendário interativo
-🌦️ Integração com API de clima para exibir previsão durante a viagem
-👥 Adição de convidados para planejamento colaborativo
-🎨 Interface moderna utilizando React e TailwindCSS
-⚡ Gerenciamento de estado e lógica organizada com boas práticas de componentização
+
+📦 Cadastro e gerenciamento de produtos
+
+🏷️ Organização de produtos por categorias
+
+🚚 Controle de fornecedores
+
+🛒 Registro de compras com atualização automática do estoque
+
+💰 Registro de vendas e baixa automática de produtos
+
+📊 Dashboard com indicadores de estoque e vendas
+
+📈 Controle de movimentações de estoque (entrada, saída e ajustes)
+
+🔍 Filtros, paginação e busca de dados
+
+🎨 Interface moderna e responsiva focada na experiência do usuário
+
 🧠 Tecnologias utilizadas
+Backend
+Node.js
+Express
+TypeScript
+Prisma ORM
+PostgreSQL
+Zod
+Frontend
+Next.js
 React
 TypeScript
 TailwindCSS
-Consumo de APIs (Geocoding + Weather)
-
-Este projeto representa um avanço importante na minha jornada como desenvolvedor, pois une consumo de APIs, manipulação de dados, organização de código e experiência do usuário em uma aplicação realista.
-
-Além disso, foi fundamental para desenvolver minha capacidade de estruturar projetos de forma escalável e pensar não apenas na implementação, mas também na experiência final do usuário.
-
-## 📫 Contato
-- Email : Joaovictor.fera@hotmail.com
-- [LinkedIn](https://www.linkedin.com/in/joãobelizariodev/)
+Axios
+TanStack Query
 
 ---
 
